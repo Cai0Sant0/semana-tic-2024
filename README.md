@@ -1,3 +1,4 @@
 # semana-tic-2024
 Sigam o @n3rds.ca no instagram !!!
-Aula boa sobre Github ♥☺
+
+Arendendo sobre Github ♥
